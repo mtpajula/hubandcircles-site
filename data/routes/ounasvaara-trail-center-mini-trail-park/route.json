@@ -1,0 +1,213 @@
+{
+  "id": "ounasvaara-trail-center-mini-trail-park",
+  "name": {
+    "fi": "Ounasvaara Trail Center - Mini Trail Park",
+    "en": "Ounasvaara Trail Center - Mini Trail Park"
+  },
+  "themes": [
+    "mtb"
+  ],
+  "seasons": [
+    "summer"
+  ],
+  "length_km": 0.5,
+  "ascent_m": 23,
+  "bbox": [
+    25.7905,
+    66.5076,
+    25.7928,
+    66.5082
+  ],
+  "maintainer": "municipal",
+  "lipas_id": 619226,
+  "track": "track.geojson",
+  "elevation_source": "mml_dem",
+  "profile": [
+    [
+      0.0,
+      86.4
+    ],
+    [
+      0.01,
+      86.2
+    ],
+    [
+      0.069,
+      89.7
+    ],
+    [
+      0.078,
+      90.7
+    ],
+    [
+      0.085,
+      90.8
+    ],
+    [
+      0.085,
+      86.4
+    ],
+    [
+      0.099,
+      87.2
+    ],
+    [
+      0.115,
+      86.4
+    ],
+    [
+      0.138,
+      85.8
+    ],
+    [
+      0.145,
+      86.1
+    ],
+    [
+      0.154,
+      86.4
+    ],
+    [
+      0.154,
+      90.8
+    ],
+    [
+      0.169,
+      89.9
+    ],
+    [
+      0.173,
+      89.8
+    ],
+    [
+      0.18,
+      89.6
+    ],
+    [
+      0.182,
+      89.2
+    ],
+    [
+      0.197,
+      88.4
+    ],
+    [
+      0.222,
+      86.7
+    ],
+    [
+      0.237,
+      86.7
+    ],
+    [
+      0.247,
+      86.4
+    ],
+    [
+      0.247,
+      89.7
+    ],
+    [
+      0.256,
+      88.5
+    ],
+    [
+      0.294,
+      86.3
+    ],
+    [
+      0.311,
+      86.2
+    ],
+    [
+      0.317,
+      86.2
+    ],
+    [
+      0.317,
+      90.6
+    ],
+    [
+      0.323,
+      89.6
+    ],
+    [
+      0.335,
+      89.8
+    ],
+    [
+      0.361,
+      86.5
+    ],
+    [
+      0.372,
+      87.6
+    ],
+    [
+      0.372,
+      86.4
+    ],
+    [
+      0.378,
+      87.0
+    ],
+    [
+      0.385,
+      87.3
+    ],
+    [
+      0.435,
+      89.5
+    ],
+    [
+      0.448,
+      90.7
+    ],
+    [
+      0.46,
+      90.8
+    ]
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "content": {
+        "fi": "Mini Trail Park on täydellinen paikka ottaa ensiaskeleet maastopyöräilyn maailmaan. Puiston helppokulkuiset ja turvalliset reitit tarjoavat koko perheelle hauskaa tekemistä – ilman aiempaa kokemusta. Mini Trail Parkissa lapset, nuoret ja aloittelijat voivat harjoitella tasapainoa, jarruttamista ja kurvailua omassa tahdissaan. Selkeät linjat, matalat kumpareet ja pelottamattomat kaarteet tekevät ajamisesta motivoivaa ja palkitsevaa.\nTäällä into pyöräilyyn syttyy kuin itsestään – tule kokeilemaan ja löydä onnistumisen ilo!"
+      }
+    }
+  ],
+  "nearby_services": [
+    {
+      "id": "osm:node/1433594862",
+      "km": 0.1
+    },
+    {
+      "id": "osm:node/8150772047",
+      "km": 0.1
+    },
+    {
+      "id": "osm:node/8312150321",
+      "km": 0.1
+    },
+    {
+      "id": "vf:a17d211f-09bf-4102-8527-efe6b217e342",
+      "km": 0.3
+    }
+  ],
+  "media": {},
+  "segments": [],
+  "non_municipal_reasons": [],
+  "gpx": "route.gpx",
+  "gpx_bytes": 3581,
+  "service_gaps": {
+    "water": 0.5,
+    "lean_to": 0.5
+  },
+  "longest_service_gap": {
+    "mtb": {
+      "km": 0.5,
+      "start_km": 0.0,
+      "end_km": 0.5
+    }
+  }
+}

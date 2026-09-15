@@ -1,0 +1,271 @@
+{
+  "id": "arctic-by-cycle-central-lapland-gravel-loop",
+  "name": {
+    "fi": "Arctic by Cycle: Central Lapland Gravel Loop",
+    "en": "Arctic by Cycle: Central Lapland Gravel Loop"
+  },
+  "themes": [
+    "gravel",
+    "touring"
+  ],
+  "seasons": [
+    "summer"
+  ],
+  "length_km": 186.6,
+  "bbox": [
+    24.6483,
+    66.4328,
+    27.234,
+    66.7109
+  ],
+  "difficulty": "demanding",
+  "track": "track.geojson",
+  "profile": [],
+  "sections": [
+    {
+      "type": "text",
+      "content": {
+        "fi": "Keski-Lapin sorareitti on 1 140 km pitkä pyöräretkeilyreitti, joka yhdistää osan Etelä- ja Keski-Lapin pyöräretkeilyreittien ulkoreiteistä yhdeksi eeppiseksi 13–16 päivän seikkailuksi. Reitti tarjoaa laajan valikoiman lappilaista luontoa ja kulttuuria Ruotsista Venäjälle ulottuvalla alueella, ja se sisältää upeita luonnonsuojelualueita sekä lukuisia erämaamajoja ja nuotiopaikkoja napapiirin yläpuolella. Suurimmalla osalla reittiä on erinomaiset palvelut ja runsaasti mahdollisuuksia täydentää varusteita, mutta reitin syrjäisimmällä osuudella on varauduttava useiden päivien ruokahuoltoon omatoimisesti, mikä tekee reitistä haastavan eikä se sovi kaikille.\n\nTämä reitti on osa laajempaa kierrosta. Eteläinen osa.",
+        "en": "The Central Lapland Gravel Loop is an 1140km bikepacking route connecting some of the outer lines of the southern and central Lapland bikepacking routes into an epic 13-16 day odyssey. The offers a wide selection of Lappish nature and culture all the way from Sweden to Russia with a fantastic selection of protected nature and numerous wilderness shelters and campfire sites, above the Arctic Circle. Most of the route has great services and frequent restocking opportunities, but the most remote part of the route needs food-wise self-sufficiency for multiple days, which makes the route challenging and not suitable for all.\n\nThis route is part of a larger loop. Southern part."
+      }
+    }
+  ],
+  "nearby_services": [
+    {
+      "id": "osm:node/534951493",
+      "km": 0.0
+    },
+    {
+      "id": "osm:node/534951498",
+      "km": 100.6
+    },
+    {
+      "id": "osm:node/5759889854",
+      "km": 100.7
+    },
+    {
+      "id": "vf:b31cfb90-e1da-4de2-b7c3-10caaa9d0388",
+      "km": 102.3
+    },
+    {
+      "id": "osm:node/1693033465",
+      "km": 102.3
+    },
+    {
+      "id": "osm:way/164458602",
+      "km": 104.3
+    },
+    {
+      "id": "osm:node/1929016586",
+      "km": 104.5
+    },
+    {
+      "id": "osm:way/164458606",
+      "km": 104.8
+    },
+    {
+      "id": "osm:node/5329269059",
+      "km": 105.5
+    },
+    {
+      "id": "osm:node/13851871190",
+      "km": 105.6
+    },
+    {
+      "id": "osm:way/31498425",
+      "km": 105.6
+    },
+    {
+      "id": "vf:9d1393ce-8abf-49a6-82ff-0281a2344b5d",
+      "km": 105.6
+    },
+    {
+      "id": "osm:node/282471585",
+      "km": 105.8
+    },
+    {
+      "id": "osm:node/7740546231",
+      "km": 114.5
+    },
+    {
+      "id": "vf:3b3f8b81-9e6a-4770-8a04-1ee4c22faa35",
+      "km": 117.2
+    },
+    {
+      "id": "osm:node/6653552440",
+      "km": 117.8
+    },
+    {
+      "id": "osm:node/6647625991",
+      "km": 118.3
+    },
+    {
+      "id": "osm:node/846347328",
+      "km": 121.3
+    },
+    {
+      "id": "vf:19389282-9980-4865-aa74-4f881de96936",
+      "km": 127.5
+    },
+    {
+      "id": "vf:4dfac12b-c3f2-42c0-974d-0c4f6282305e",
+      "km": 127.5
+    },
+    {
+      "id": "vf:c37eff17-9964-436f-89a2-89301199519a",
+      "km": 127.5
+    },
+    {
+      "id": "osm:node/13415615085",
+      "km": 127.5
+    },
+    {
+      "id": "osm:node/434075078",
+      "km": 127.5
+    },
+    {
+      "id": "osm:node/451933284",
+      "km": 127.5
+    },
+    {
+      "id": "osm:node/451933286",
+      "km": 127.5
+    },
+    {
+      "id": "osm:node/7743607154",
+      "km": 127.5
+    },
+    {
+      "id": "osm:node/8068151422",
+      "km": 127.5
+    },
+    {
+      "id": "osm:node/8261659867",
+      "km": 127.5
+    },
+    {
+      "id": "osm:node/9843865245",
+      "km": 127.5
+    },
+    {
+      "id": "osm:way/154893240",
+      "km": 127.5
+    },
+    {
+      "id": "osm:node/11821685899",
+      "km": 127.6
+    },
+    {
+      "id": "vf:1a9b815c-7bf3-4c01-9064-46e70a0ecd68",
+      "km": 127.8
+    },
+    {
+      "id": "vf:22f8de45-8c07-4f97-9f0f-47fd8d186149",
+      "km": 127.8
+    },
+    {
+      "id": "osm:node/12171390901",
+      "km": 127.8
+    },
+    {
+      "id": "vf:2408f8f8-1cbb-4c90-9388-1e63f5cbcaf9",
+      "km": 127.8
+    },
+    {
+      "id": "vf:c48572ad-5278-4b82-8789-349935654925",
+      "km": 127.8
+    },
+    {
+      "id": "osm:node/456766202",
+      "km": 127.8
+    },
+    {
+      "id": "osm:node/11626670086",
+      "km": 127.9
+    },
+    {
+      "id": "osm:node/3848220354",
+      "km": 127.9
+    },
+    {
+      "id": "osm:node/12151769481",
+      "km": 128.1
+    },
+    {
+      "id": "osm:node/453832921",
+      "km": 128.3
+    },
+    {
+      "id": "osm:way/347207217",
+      "km": 128.3
+    },
+    {
+      "id": "osm:node/6049808587",
+      "km": 128.3
+    },
+    {
+      "id": "osm:node/6049808586",
+      "km": 128.3
+    },
+    {
+      "id": "osm:node/13544714001",
+      "km": 128.3
+    },
+    {
+      "id": "vf:82eedf6d-1638-4da9-892e-c1629b3fdd3e",
+      "km": 128.7
+    },
+    {
+      "id": "osm:node/2407233514",
+      "km": 128.7
+    },
+    {
+      "id": "osm:node/2407233513",
+      "km": 128.7
+    },
+    {
+      "id": "osm:way/50460063",
+      "km": 129.3
+    },
+    {
+      "id": "osm:node/846347329",
+      "km": 129.9
+    },
+    {
+      "id": "vf:4a9266f8-225c-4ed9-b261-89b5995ec9b1",
+      "km": 130.6
+    },
+    {
+      "id": "vf:00588b7d-e027-4ade-b090-442a2d9fa67a",
+      "km": 130.7
+    },
+    {
+      "id": "osm:node/7620184566",
+      "km": 185.0
+    }
+  ],
+  "media": {},
+  "segments": [],
+  "non_municipal_reasons": [],
+  "gpx": "route.gpx",
+  "gpx_bytes": 42941,
+  "service_gaps": {
+    "cafe": 105.8,
+    "water": 186.6,
+    "shop": 104.3,
+    "accommodation": 102.3,
+    "lean_to": 100.6
+  },
+  "longest_service_gap": {
+    "gravel": {
+      "km": 104.3,
+      "start_km": 0.0,
+      "end_km": 104.3
+    },
+    "touring": {
+      "km": 100.6,
+      "start_km": 0.0,
+      "end_km": 100.6
+    }
+  }
+}
