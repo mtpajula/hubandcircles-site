@@ -1,0 +1,663 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-15T17:48:54Z",
+  "project": {
+    "name": {
+      "fi": "Napa ja piirit",
+      "en": "Hub & Circles"
+    },
+    "subtitle": {
+      "fi": "pyöräillen Rovaniemen seudulla",
+      "en": "cycling around Rovaniemi"
+    },
+    "area": [
+      25.4,
+      66.3,
+      26.2,
+      66.7
+    ],
+    "languages": [
+      "fi",
+      "en"
+    ],
+    "default_language": "fi",
+    "default_theme": "gravel",
+    "feedback": {
+      "github_repo": "mtpajula/hubandcircles-data",
+      "issue_form": "trail-issue.yml"
+    }
+  },
+  "themes": [
+    {
+      "id": "winter",
+      "name": {
+        "fi": "Talvimaasto",
+        "en": "Winter fatbiking"
+      },
+      "tagline": {
+        "fi": "Levyt renkaat, lumi ja jää",
+        "en": "Fat tyres, snow and ice"
+      },
+      "order": 1,
+      "colors": {
+        "primary": "#2F5F96",
+        "route": "#2F5F96",
+        "highlight": "#E8A33D"
+      },
+      "dark": true,
+      "basemap": "base-map",
+      "default_layers": [
+        "shelters"
+      ],
+      "presentation": {
+        "key_figures": [
+          "length",
+          "winter_maintenance",
+          "itrs_technical",
+          "longest_service_gap"
+        ],
+        "band": [
+          "elevation",
+          "itrs_technical"
+        ],
+        "hero_image": "hardest_section",
+        "filters": [
+          "length",
+          "itrs_technical",
+          "winter_maintenance"
+        ],
+        "service_categories_first": [
+          "hut",
+          "lean_to"
+        ]
+      }
+    },
+    {
+      "id": "mtb",
+      "name": {
+        "fi": "Maasto",
+        "en": "Mountain biking"
+      },
+      "tagline": {
+        "fi": "Polut ja tekniset laskut",
+        "en": "Trails and technical descents"
+      },
+      "order": 2,
+      "colors": {
+        "primary": "#6E4C8F",
+        "route": "#6E4C8F",
+        "highlight": "#E8A33D"
+      },
+      "dark": false,
+      "basemap": "topo",
+      "default_layers": [
+        "shelters"
+      ],
+      "presentation": {
+        "key_figures": [
+          "itrs_technical",
+          "itrs_endurance",
+          "length",
+          "ascent"
+        ],
+        "band": [
+          "elevation",
+          "itrs_technical",
+          "surface"
+        ],
+        "hero_image": "hardest_section",
+        "filters": [
+          "itrs_technical",
+          "length"
+        ],
+        "service_categories_first": [
+          "water",
+          "lean_to"
+        ]
+      }
+    },
+    {
+      "id": "gravel",
+      "name": {
+        "fi": "Gravel",
+        "en": "Gravel"
+      },
+      "tagline": {
+        "fi": "Sorateitä ja metsäautoteitä",
+        "en": "Gravel and forest roads"
+      },
+      "order": 3,
+      "colors": {
+        "primary": "#8F5D12",
+        "route": "#8F5D12",
+        "highlight": "#E8A33D"
+      },
+      "dark": false,
+      "basemap": "guide-map",
+      "default_layers": [],
+      "presentation": {
+        "key_figures": [
+          "length",
+          "ascent",
+          "surface_shares",
+          "itrs_endurance"
+        ],
+        "band": [
+          "elevation",
+          "surface"
+        ],
+        "hero_image": "cover_image",
+        "filters": [
+          "length",
+          "dominant_surface"
+        ],
+        "service_categories_first": [
+          "cafe",
+          "water",
+          "shop"
+        ]
+      }
+    },
+    {
+      "id": "road",
+      "name": {
+        "fi": "Maantie",
+        "en": "Road"
+      },
+      "tagline": {
+        "fi": "Asfaltti ja pyörätiet",
+        "en": "Asphalt and cycle paths"
+      },
+      "order": 4,
+      "colors": {
+        "primary": "#A8323E",
+        "route": "#A8323E",
+        "highlight": "#E8A33D"
+      },
+      "dark": false,
+      "basemap": "guide-map",
+      "default_layers": [],
+      "presentation": {
+        "key_figures": [
+          "length",
+          "ascent",
+          "separated_share",
+          "dominant_surface"
+        ],
+        "band": [
+          "elevation",
+          "traffic",
+          "surface"
+        ],
+        "hero_image": "cover_image",
+        "filters": [
+          "length",
+          "separated_share"
+        ],
+        "service_categories_first": [
+          "cafe",
+          "bike_repair"
+        ]
+      }
+    },
+    {
+      "id": "touring",
+      "name": {
+        "fi": "Retki",
+        "en": "Touring"
+      },
+      "tagline": {
+        "fi": "Monen päivän etapit",
+        "en": "Multi-day stages"
+      },
+      "order": 5,
+      "colors": {
+        "primary": "#3F6B4A",
+        "route": "#3F6B4A",
+        "highlight": "#E8A33D"
+      },
+      "dark": false,
+      "default_layers": [
+        "shelters"
+      ],
+      "presentation": {
+        "key_figures": [
+          "length",
+          "longest_service_gap",
+          "itrs_wilderness",
+          "ascent"
+        ],
+        "band": [
+          "elevation",
+          "surface"
+        ],
+        "hero_image": "cover_image",
+        "filters": [
+          "length",
+          "difficulty"
+        ],
+        "service_categories_first": [
+          "accommodation",
+          "water",
+          "shop",
+          "lean_to"
+        ]
+      }
+    }
+  ],
+  "layers": [
+    {
+      "id": "aerial-2025",
+      "name": {
+        "fi": "Ilmakuva 2025",
+        "en": "Aerial image 2025"
+      },
+      "slot": "raster",
+      "type": "wms",
+      "url": "https://rovaniemi.asiointi.fi/teklaogcweb/WMS.ashx",
+      "wms": {
+        "version": "1.1.1",
+        "layers": "Ilmakuva 2025",
+        "format": "image/png",
+        "srs": "EPSG:3857"
+      },
+      "visible_in": {
+        "themes": "*",
+        "routes": []
+      },
+      "default_on": false,
+      "minzoom": 12,
+      "attribution": "© Rovaniemen kaupunki",
+      "legend": []
+    },
+    {
+      "id": "base-map",
+      "name": {
+        "fi": "Pohjakartta",
+        "en": "Base map"
+      },
+      "slot": "base",
+      "type": "wms",
+      "url": "https://rovaniemi.asiointi.fi/teklaogcweb/WMS.ashx",
+      "wms": {
+        "version": "1.1.1",
+        "layers": "Pohjakartta",
+        "format": "image/png",
+        "srs": "EPSG:3857"
+      },
+      "visible_in": {
+        "themes": [
+          "winter",
+          "mtb"
+        ],
+        "routes": []
+      },
+      "default_on": true,
+      "minzoom": 12,
+      "attribution": "© Rovaniemen kaupunki",
+      "legend": []
+    },
+    {
+      "id": "guide-map",
+      "name": {
+        "fi": "Opaskartta",
+        "en": "Guide map"
+      },
+      "slot": "base",
+      "type": "wms",
+      "url": "https://rovaniemi.asiointi.fi/teklaogcweb/WMS.ashx",
+      "wms": {
+        "version": "1.1.1",
+        "layers": "Opaskartta_qgs",
+        "format": "image/png",
+        "srs": "EPSG:3857"
+      },
+      "visible_in": {
+        "themes": [
+          "road",
+          "gravel",
+          "touring"
+        ],
+        "routes": []
+      },
+      "default_on": true,
+      "attribution": "© Rovaniemen kaupunki",
+      "legend": []
+    },
+    {
+      "id": "orthophoto",
+      "name": {
+        "fi": "Ortokuva",
+        "en": "Orthophoto"
+      },
+      "slot": "raster",
+      "type": "wms",
+      "url": "https://rovaniemi.asiointi.fi/teklaogcweb/WMS.ashx",
+      "wms": {
+        "version": "1.1.1",
+        "layers": "Ortokuva_MML",
+        "format": "image/png",
+        "srs": "EPSG:3857"
+      },
+      "visible_in": {
+        "themes": "*",
+        "routes": []
+      },
+      "default_on": false,
+      "minzoom": 12,
+      "opacity": 1.0,
+      "attribution": "© Rovaniemen kaupunki · ortokuva © Maanmittauslaitos",
+      "legend": []
+    },
+    {
+      "id": "shelters",
+      "name": {
+        "fi": "Laavut ja tuvat",
+        "en": "Shelters and huts"
+      },
+      "slot": "points",
+      "type": "geojson",
+      "url": "layers/shelters-15a68d.geojson",
+      "visible_in": {
+        "themes": [
+          "winter",
+          "touring",
+          "mtb"
+        ],
+        "routes": []
+      },
+      "default_on": true,
+      "attribution": "© OpenStreetMap contributors",
+      "fetched_at": "2026-09-13T18:20:53Z",
+      "legend": []
+    },
+    {
+      "id": "topo",
+      "name": {
+        "fi": "Maastokartta",
+        "en": "Topographic map"
+      },
+      "slot": "base",
+      "type": "xyz",
+      "url": "layers/topo/v1/{z}/{x}/{y}.png",
+      "visible_in": {
+        "themes": [
+          "mtb",
+          "winter"
+        ],
+        "routes": []
+      },
+      "default_on": false,
+      "minzoom": 12,
+      "maxzoom": 16,
+      "attribution": "© Maanmittauslaitos, CC BY 4.0",
+      "fetched_at": "2026-09-14T18:38:28Z",
+      "legend": []
+    },
+    {
+      "id": "water-points",
+      "name": {
+        "fi": "Juomavesi ja wc",
+        "en": "Water and toilets"
+      },
+      "slot": "points",
+      "type": "geojson",
+      "url": "layers/water-points-6fc395.geojson",
+      "visible_in": {
+        "themes": "*",
+        "routes": []
+      },
+      "default_on": false,
+      "attribution": "© OpenStreetMap contributors",
+      "fetched_at": "2026-09-13T18:20:53Z",
+      "legend": []
+    }
+  ],
+  "routes": [
+    {
+      "id": "arctic-by-cycle-central-lapland-gravel-loop",
+      "name": {
+        "fi": "Arctic by Cycle: Central Lapland Gravel Loop",
+        "en": "Arctic by Cycle: Central Lapland Gravel Loop"
+      },
+      "themes": [
+        "gravel",
+        "touring"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "length_km": 186.6,
+      "bbox": [
+        24.6483,
+        66.4328,
+        27.234,
+        66.7109
+      ],
+      "difficulty": "demanding"
+    },
+    {
+      "id": "arctic-by-cycle-santa-s-eastern-gravel-loop",
+      "name": {
+        "fi": "Arctic by Cycle: Santa's Eastern Gravel Loop",
+        "en": "Arctic by Cycle: Santa's Eastern Gravel Loop"
+      },
+      "themes": [
+        "gravel",
+        "touring"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "length_km": 472.3,
+      "bbox": [
+        25.5507,
+        66.4482,
+        27.5056,
+        67.2013
+      ]
+    },
+    {
+      "id": "arctic-by-cycle-santa-s-western-gravel-loop",
+      "name": {
+        "fi": "Arctic by Cycle: Santa's Western Gravel Loop",
+        "en": "Arctic by Cycle: Santa's Western Gravel Loop"
+      },
+      "themes": [
+        "gravel",
+        "touring"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "length_km": 140.9,
+      "bbox": [
+        24.6483,
+        66.4328,
+        25.8444,
+        66.8903
+      ]
+    },
+    {
+      "id": "eurovelo-11-east-europe-route",
+      "name": {
+        "fi": "EuroVelo 11 - Itä-Euroopan reitti",
+        "en": "EuroVelo 11 - East Europe Route"
+      },
+      "themes": [
+        "gravel",
+        "touring"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "length_km": 1565.3,
+      "bbox": [
+        24.5113,
+        60.1709,
+        28.0611,
+        69.4012
+      ]
+    },
+    {
+      "id": "jump-ramp",
+      "name": {
+        "fi": "Ounasvaara Bike Park - Linkka",
+        "en": "Ounasvaara Bike Park - Linkka"
+      },
+      "themes": [
+        "mtb"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "length_km": 1.4,
+      "ascent_m": 0,
+      "bbox": [
+        25.7871,
+        66.5021,
+        25.8006,
+        66.5071
+      ],
+      "maintainer": "municipal"
+    },
+    {
+      "id": "ounasvaara-trail-center-loimu",
+      "name": {
+        "fi": "Ounasvaara Trail Center - Loimu",
+        "en": "Ounasvaara Trail Center - Loimu"
+      },
+      "themes": [
+        "mtb"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "length_km": 1.8,
+      "ascent_m": 2,
+      "bbox": [
+        25.7712,
+        66.5021,
+        25.7873,
+        66.5071
+      ],
+      "maintainer": "municipal"
+    },
+    {
+      "id": "ounasvaara-trail-center-mini-trail-park",
+      "name": {
+        "fi": "Ounasvaara Trail Center - Mini Trail Park",
+        "en": "Ounasvaara Trail Center - Mini Trail Park"
+      },
+      "themes": [
+        "mtb"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "length_km": 0.5,
+      "ascent_m": 23,
+      "bbox": [
+        25.7905,
+        66.5076,
+        25.7928,
+        66.5082
+      ],
+      "maintainer": "municipal"
+    },
+    {
+      "id": "ounasvaara-trail-center-torma",
+      "name": {
+        "fi": "Ounasvaara Trail Center - Törmä",
+        "en": "Ounasvaara Trail Center - Törmä"
+      },
+      "themes": [
+        "mtb"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "length_km": 0.5,
+      "ascent_m": 0,
+      "bbox": [
+        25.7797,
+        66.5041,
+        25.7837,
+        66.5069
+      ],
+      "maintainer": "municipal"
+    },
+    {
+      "id": "rollo-mtb-maastopyorailyreitti",
+      "name": {
+        "fi": "Rollo MTB -maastopyöräilyreitti"
+      },
+      "themes": [
+        "mtb"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "length_km": 22.4,
+      "ascent_m": 449,
+      "bbox": [
+        25.7509,
+        66.488,
+        25.8546,
+        66.5089
+      ],
+      "cover_image": "routes/rollo-mtb-maastopyorailyreitti/media/cover-1147ec-400.webp",
+      "hardest_image": "routes/rollo-mtb-maastopyorailyreitti/media/cover-1147ec-400.webp",
+      "maintainer": "non_municipal"
+    },
+    {
+      "id": "santa-s-trail",
+      "name": {
+        "fi": "Tonttumetsän pyöräilypuisto -Santa's Trail",
+        "en": "Santa's Trail"
+      },
+      "themes": [
+        "mtb"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "length_km": 4.4,
+      "ascent_m": 111,
+      "bbox": [
+        25.8234,
+        66.5248,
+        25.8563,
+        66.5424
+      ],
+      "maintainer": "municipal"
+    },
+    {
+      "id": "swiftness",
+      "name": {
+        "fi": "Ounasvaara Bike Park - Vinha",
+        "en": "Ounasvaara Bike Park - Vinha"
+      },
+      "themes": [
+        "mtb"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "length_km": 0.8,
+      "ascent_m": 0,
+      "bbox": [
+        25.7759,
+        66.5047,
+        25.7803,
+        66.5068
+      ],
+      "maintainer": "municipal"
+    }
+  ],
+  "overview": "overview.geojson",
+  "services": "services.geojson",
+  "coverage": {
+    "topo": "layers/topo-coverage.geojson"
+  }
+}

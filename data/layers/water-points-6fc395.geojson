@@ -1,0 +1,390 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/12398416434",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.782784,
+          66.515869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13398091031",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.466141,
+          66.64426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13544714001",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.732553,
+          66.498292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13851871190",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.706562,
+          66.49623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13960616701",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.754794,
+          66.518473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/14121743440",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.763255,
+          66.571913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/2140261287",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.900185,
+          66.457511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/2407233513",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.742814,
+          66.497705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/2407233514",
+        "category": "toilet",
+        "source": "osm",
+        "opening_hours": "24/7",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.742109,
+          66.497097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/2428267593",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.794048,
+          66.625606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/2450295326",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.786611,
+          66.629094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/2860413470",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.180219,
+          66.617621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4183669635",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.466359,
+          66.645627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4336881980",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.08722,
+          66.621764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4336903769",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.118841,
+          66.595484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4969114829",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.024543,
+          66.582076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/5647897122",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.46275,
+          66.399477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/5759889854",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.625247,
+          66.477217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/6653552440",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.796091,
+          66.500389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/8312150441",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.836631,
+          66.501431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/8312150442",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.83126,
+          66.499765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/8312150471",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.846708,
+          66.49927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/9693475777",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.850663,
+          66.54596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/1071852204",
+        "category": "toilet",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.895954,
+          66.366936
+        ]
+      }
+    }
+  ]
+}

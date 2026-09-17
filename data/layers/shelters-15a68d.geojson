@@ -1,0 +1,716 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/10710743005",
+        "name": {
+          "fi": "Revontulilaavu",
+          "en": "Northern lights lean-to shelter"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.72152,
+          66.511571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/11472399021",
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.737771,
+          66.568831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/13022747622",
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.852097,
+          66.552716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/1477716447",
+        "name": {
+          "fi": "Karhukumpu laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.125905,
+          66.589368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/2860413492",
+        "name": {
+          "fi": "Vikaköngäs"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.188325,
+          66.619462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/3581077441",
+        "name": {
+          "fi": "Niittypirtti päivätupa"
+        },
+        "category": "hut",
+        "source": "osm",
+        "url": "https://www.luontoon.fi/niittypirttipaivatupa",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.191324,
+          66.59057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4020151880",
+        "name": {
+          "fi": "Vikakönkään laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "url": "https://www.etiainen.fi/gpsalbum/Vikakonkaan-laavu/21ndifjx/e4202c6a-ea9e-4416-9f99-7dc28f57e78e",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.188096,
+          66.619447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4185375877",
+        "name": {
+          "fi": "Laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.640206,
+          66.585993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4336201522",
+        "name": {
+          "fi": "Laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.183161,
+          66.592312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4336201560",
+        "name": {
+          "fi": "Laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.119645,
+          66.590381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/4336220386",
+        "name": {
+          "fi": "Laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.106282,
+          66.577212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951448",
+        "name": {
+          "fi": "Sinettajokisuu_LA"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.482934,
+          66.64655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951468",
+        "name": {
+          "fi": "Ounaspaviljonki laavu",
+          "en": "Ounaspaviljonki Lean-to"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.743071,
+          66.519544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951470",
+        "name": {
+          "fi": "Niskanpera"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.63162,
+          66.444181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951473",
+        "name": {
+          "fi": "Niilo"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.475018,
+          66.408571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951481",
+        "name": {
+          "fi": "Luonuajoki laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.40646,
+          66.686607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951484",
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.797454,
+          66.512686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951487",
+        "name": {
+          "fi": "Kuninkaan laavu",
+          "en": "Santavaara Lean-to"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "url": "https://www.rovaniemi.fi",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.696986,
+          66.56566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951493",
+        "name": {
+          "fi": "Kemila laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.067006,
+          66.459842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951495",
+        "name": {
+          "fi": "Jussilanvaara_LA"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.470616,
+          66.438543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951498",
+        "name": {
+          "fi": "Alakorkalo laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.625422,
+          66.476555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951500",
+        "name": {
+          "fi": "Erasaari_LA"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.408421,
+          66.40215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/534951501",
+        "name": {
+          "fi": "Hirvasoja laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.439482,
+          66.428644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/5370990040",
+        "name": {
+          "fi": "Laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.736137,
+          66.471474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/5877993985",
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.747456,
+          66.45583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/6141272290",
+        "name": {
+          "fi": "Olkkajärven laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "url": "https://www.etiainen.fi/gpsalbum/Olkkajarven-laavu/21ndifjx/da781138-2ec6-48a4-a75f-b3f1868e69eb",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.129761,
+          66.534112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/6156543546",
+        "name": {
+          "fi": "Laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.488787,
+          66.644885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/6472038286",
+        "name": {
+          "fi": "Salmijärven laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.756238,
+          66.485509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/6472038288",
+        "name": {
+          "fi": "Rautiojärven laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.706723,
+          66.452562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/6647625991",
+        "name": {
+          "fi": "Ounasvaaran luontopolun laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.802983,
+          66.493495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/7620184566",
+        "name": {
+          "fi": "Laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.570502,
+          66.464419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/7726974932",
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.785291,
+          66.628797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/8308197318",
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.753855,
+          66.468328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/846347328",
+        "name": {
+          "fi": "Väiskin laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.867156,
+          66.484759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/846347329",
+        "name": {
+          "fi": "Ounasvaaran näkötornin laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.766927,
+          66.502228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:node/8493861170",
+        "name": {
+          "fi": "Mellavaaran laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.53597,
+          66.528601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/347207217",
+        "name": {
+          "fi": "Jyrhämänkujan laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.73387,
+          66.492694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "osm:way/347207392",
+        "name": {
+          "fi": "Kukanniemen laavu"
+        },
+        "category": "lean_to",
+        "source": "osm",
+        "fetched_at": "2026-09-13T18:20:53Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.746292,
+          66.484048
+        ]
+      }
+    }
+  ]
+}
